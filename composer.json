@@ -1,5 +1,5 @@
 {
-  "name": "oat-sa/oatbox-extension-installer",
+  "name": "openthiknlabs/oatbox-extension-installer",
   "description": "Custom composer extension installer for TAO platform",
   "keywords": [
     "tao",
